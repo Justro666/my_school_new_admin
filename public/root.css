@@ -1,0 +1,22 @@
+body{
+    scroll-behavior: smooth;
+}
+.scrollYStyle::-webkit-scrollbar {
+    width: 10px;
+}
+.scrollYStyle::-webkit-scrollbar-thumb {
+    background: #3f3f3f;
+}
+.scrollYStyle::-webkit-scrollbar-thumb:hover {
+    background: #4f4f4f;
+}
+
+.scrollXStyle::-webkit-scrollbar{
+    height: 10px;
+}
+.scrollXStyle::-webkit-scrollbar-thumb {
+    background:#3f3f3f;
+}
+.scrollXStyle::-webkit-scrollbar-thumb:hover {
+    background: #4f4f4f;
+}
